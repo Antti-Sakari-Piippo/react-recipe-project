@@ -8,7 +8,11 @@ You need: react-router, bootstrap and axios to run this website (installing thes
 In addition, you need a package manager: [npm](https://www.npmjs.com/get-npm) or [yarn](https://yarnpkg.com/lang/en/docs/install/#windows-stable), and [Node.js](https://nodejs.org/en/) (these you need to install manually from the official websites)
 
 ## Installing
-go to src folder, and run ```npm i``` (or ```yarn i```) to install dependencies
+Open command prompt, go to projects 'src' folder, and run ```npm i``` (or ```yarn i```) to install dependencies
 
 ## Starting project
-in src folder, run ```npm start```
+In 'src' folder, run ```npm start```
+
+## Shutdown project
+Close command prompt by pressing X or type ```exit```
+
