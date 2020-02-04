@@ -10,7 +10,7 @@ you need a package manager: [npm](https://www.npmjs.com/get-npm) or [yarn](https
 Open command prompt, go to projects 'src' folder, and run ```npm i``` (or ```yarn i```) to install dependencies
 
 ## Starting project
-In 'src' folder, run ```npm start```
+In 'react-recipe-project' folder, run ```npm start```
 
 ## Shutdown project
 Close command prompt by pressing X or type ```exit```
