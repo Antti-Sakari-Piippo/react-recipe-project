@@ -35,7 +35,7 @@ button:focus {
 
 .App-title {
 	font-size: 2.8em;
-	font-family: "Anton";
+	font-family: 'Source Sans Pro', sans-serif;
 }
 
 .recipe_buttons {
@@ -108,7 +108,6 @@ form {
 	padding: 0.5rem;
 	color: white;
 	font-size: 1.3rem;
-	font-family: "Anton";
 }
 
 .form__button {
@@ -120,7 +119,7 @@ form {
 	font-size: 1.4rem;
 	font-weight: 500;
 	color: white;
-	font-family: "Anton";
+	cursor: pointer;
 }
 
 input[type="text"] {
